@@ -36,10 +36,10 @@ pass:
     cout<<"====================================\n";
     cout<<endl<<endl;
     cout<<"\n\n<<< Menu Pilihan >>>\n\n";
-    cout<<"1.Tenda  5.krupuk\n";
-    cout<<"2.huawai 6.ayam\n";
-    cout<<"3.cisco  7.opor\n";
-    cout<<"4.zte    8.gedang\n\n";
+    cout<<"1.Tenda  5.cek1\n";
+    cout<<"2.huawai 6.cek2\n";
+    cout<<"3.cisco  7.cek3\n";
+    cout<<"4.zte    8.cek4\n\n";
 menu:
     cout<<"Masukkan Nomor Router: ";
     cin>>a;
