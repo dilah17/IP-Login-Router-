@@ -4,3 +4,7 @@ aplikasi ini dibuat untuk mempermudah dalam pencarian IP yang ada pada jenis - j
 /* TOOLS YANG DIGUNAKAN */
 1. SUBLIME TEXT 3.0
 2. VISUAL CODE 1.35.1
+
+
+Referensi
+http://www.pintarkomputer.com/daftar-ip-address-default-semua-router/
