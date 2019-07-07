@@ -1,6 +1,5 @@
 #include <iostream> //file header yang berfungsi sebagai standar input outut operasi pada c++
 #include <cstdlib> //file header yang berfungsi mendefinisikan pencarian, pengurutan dan konversi 
-#include <conio.h> //file header yang berfungsi menampilkan hasil antarmuka kepada user 
 #include <csignal> //library yang berfungsi menangani sinyal untuk menginformasikan proses yang berjalan 
 
 using namespace std; //untuk mendeklarasikan fungsi atau class yang merupakan bagian dari namespace std yang bersangkutan 
